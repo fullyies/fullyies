@@ -1,7 +1,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World!!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=25&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-<!---habibii--->
+
 ###
 
 <p align="left">Hi, I'm Habibi! Aspiring tech enthusiast and a student at Polman Negeri Bangka Belitung. Just starting my coding journey<br>—let's build something awesome together!</p>
