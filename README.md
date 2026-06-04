@@ -72,6 +72,12 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/fullyies/fullyies/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
 <div align="center">
   <sub>© 2026 Habibi. All rights reserved.</sub>
 </div>
