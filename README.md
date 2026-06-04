@@ -71,7 +71,7 @@
 </picture>
 
 ###
-
+<br clear="both">
 <img src="https://raw.githubusercontent.com/fullyies/fullyies/snake-output/snake.svg" alt="Snake animation" />
 
 ###
