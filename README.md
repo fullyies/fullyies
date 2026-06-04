@@ -63,6 +63,6 @@
 
 ###
 
-<sub>© 2026 Habibi. All rights reserved.</sub>
+<sub align="center">© 2026 Habibi. All rights reserved.</sub>
 
 ###
