@@ -62,7 +62,19 @@
 </div>
 
 ###
+<br clear="both">
 
-<sub align="center">© 2026 Habibi. All rights reserved.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fullyies/fullyies/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fullyies/fullyies/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fullyies/fullyies/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <sub>© 2026 Habibi. All rights reserved.</sub>
+</div>
+
 
 ###
